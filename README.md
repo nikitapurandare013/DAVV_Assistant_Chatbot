@@ -27,7 +27,7 @@ An intelligent AI-powered assistant designed for students, faculty, and staff of
 - 📚 Course structure and guidelines
 - 📝 Exam notices, rules, and circulars
 
-  ## 📁 How to Use
+## 📁 How to Use
 
 1. **Clone the repository**
 
