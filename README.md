@@ -51,3 +51,7 @@ An intelligent AI-powered assistant designed for students, faculty, and staff of
 
 ## 🤝 Contributors
 **Nikita Purandare – M.Tech (AI/DS), School of Data Science and Forecasting, DAVV**
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
